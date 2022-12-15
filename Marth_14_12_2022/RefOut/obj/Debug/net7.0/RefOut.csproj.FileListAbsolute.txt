@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\bin\Debug\net7.0\RefOut.exe
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\bin\Debug\net7.0\RefOut.deps.json
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\bin\Debug\net7.0\RefOut.runtimeconfig.json
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\bin\Debug\net7.0\RefOut.dll
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\bin\Debug\net7.0\RefOut.pdb
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\obj\Debug\net7.0\RefOut.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\obj\Debug\net7.0\RefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\obj\Debug\net7.0\RefOut.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\obj\Debug\net7.0\RefOut.AssemblyInfo.cs
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\obj\Debug\net7.0\RefOut.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\obj\Debug\net7.0\RefOut.dll
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\obj\Debug\net7.0\refint\RefOut.dll
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\obj\Debug\net7.0\RefOut.pdb
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\obj\Debug\net7.0\RefOut.genruntimeconfig.cache
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\RefOut\obj\Debug\net7.0\ref\RefOut.dll

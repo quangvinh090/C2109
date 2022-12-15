@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\bin\Debug\net7.0\ForeachWhile.exe
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\bin\Debug\net7.0\ForeachWhile.deps.json
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\bin\Debug\net7.0\ForeachWhile.runtimeconfig.json
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\bin\Debug\net7.0\ForeachWhile.dll
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\bin\Debug\net7.0\ForeachWhile.pdb
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.AssemblyInfo.cs
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.dll
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\obj\Debug\net7.0\refint\ForeachWhile.dll
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.pdb
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\obj\Debug\net7.0\ForeachWhile.genruntimeconfig.cache
+C:\Users\PC\source\repos\C2109\Marth_14_12_2022\ForeachWhile\obj\Debug\net7.0\ref\ForeachWhile.dll
