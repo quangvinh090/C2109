@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\bin\Debug\net7.0\PartailClass.exe
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\bin\Debug\net7.0\PartailClass.deps.json
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\bin\Debug\net7.0\PartailClass.runtimeconfig.json
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\bin\Debug\net7.0\PartailClass.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\bin\Debug\net7.0\PartailClass.pdb
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\obj\Debug\net7.0\PartailClass.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\obj\Debug\net7.0\PartailClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\obj\Debug\net7.0\PartailClass.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\obj\Debug\net7.0\PartailClass.AssemblyInfo.cs
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\obj\Debug\net7.0\PartailClass.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\obj\Debug\net7.0\PartailClass.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\obj\Debug\net7.0\refint\PartailClass.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\obj\Debug\net7.0\PartailClass.pdb
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\obj\Debug\net7.0\PartailClass.genruntimeconfig.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\PartailClass\obj\Debug\net7.0\ref\PartailClass.dll
