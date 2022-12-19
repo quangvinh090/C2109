@@ -6,3 +6,4 @@ ch1.Show();
 
 Parent pa = new Child();
 pa.Display();
+pa.Show();
