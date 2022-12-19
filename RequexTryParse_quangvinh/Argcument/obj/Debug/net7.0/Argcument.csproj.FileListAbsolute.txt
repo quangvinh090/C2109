@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\bin\Debug\net7.0\Argcument.exe
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\bin\Debug\net7.0\Argcument.deps.json
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\bin\Debug\net7.0\Argcument.runtimeconfig.json
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\bin\Debug\net7.0\Argcument.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\bin\Debug\net7.0\Argcument.pdb
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\obj\Debug\net7.0\Argcument.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\obj\Debug\net7.0\Argcument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\obj\Debug\net7.0\Argcument.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\obj\Debug\net7.0\Argcument.AssemblyInfo.cs
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\obj\Debug\net7.0\Argcument.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\obj\Debug\net7.0\Argcument.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\obj\Debug\net7.0\refint\Argcument.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\obj\Debug\net7.0\Argcument.pdb
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\obj\Debug\net7.0\Argcument.genruntimeconfig.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Argcument\obj\Debug\net7.0\ref\Argcument.dll

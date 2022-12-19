@@ -3,17 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequexTryParse", "RequexTryParse\RequexTryParse.csproj", "{5C3AC1F5-0431-4F60-8274-4D7895C8D736}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RequexTryParse", "RequexTryParse\RequexTryParse.csproj", "{5C3AC1F5-0431-4F60-8274-4D7895C8D736}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartailClass", "PartailClass\PartailClass.csproj", "{D2E33286-0227-4513-9E26-5C7E557E759D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartailClass", "PartailClass\PartailClass.csproj", "{D2E33286-0227-4513-9E26-5C7E557E759D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Argcument", "Argcument\Argcument.csproj", "{06DF1E03-A718-4B4D-80BD-2033C22CFBFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Argcument", "Argcument\Argcument.csproj", "{06DF1E03-A718-4B4D-80BD-2033C22CFBFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopAbstraction", "OopAbstraction\OopAbstraction.csproj", "{AE082E05-3F3C-4120-BD03-8AFE1A4EF144}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopAbstraction", "OopAbstraction\OopAbstraction.csproj", "{AE082E05-3F3C-4120-BD03-8AFE1A4EF144}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopEncapsulation", "OopEncapsulation\OopEncapsulation.csproj", "{74F2287F-1FAE-49FB-A711-BE14DF8EBA52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopEncapsulation", "OopEncapsulation\OopEncapsulation.csproj", "{74F2287F-1FAE-49FB-A711-BE14DF8EBA52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopEncapsulationCOnt", "OopEncapsulationCOnt\OopEncapsulationCOnt.csproj", "{ED62E11F-B204-43F7-9CB5-0F7A9338BFA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopEncapsulationCOnt", "OopEncapsulationCOnt\OopEncapsulationCOnt.csproj", "{ED62E11F-B204-43F7-9CB5-0F7A9338BFA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopEncapsulution", "OopEncapsulution\OopEncapsulution.csproj", "{3C12DECD-3908-4F15-97B1-3FCF2BA9E369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPolymorphismOverloading", "OopPolymorphismOverloading\OopPolymorphismOverloading.csproj", "{1831FC1D-DFE5-4B92-835C-D9468227DFDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPolymorphismOverride", "OopPolymorphismOverride\OopPolymorphismOverride.csproj", "{699DC140-7E53-4504-80A9-F1B791694179}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{ED62E11F-B204-43F7-9CB5-0F7A9338BFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED62E11F-B204-43F7-9CB5-0F7A9338BFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED62E11F-B204-43F7-9CB5-0F7A9338BFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C12DECD-3908-4F15-97B1-3FCF2BA9E369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C12DECD-3908-4F15-97B1-3FCF2BA9E369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C12DECD-3908-4F15-97B1-3FCF2BA9E369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C12DECD-3908-4F15-97B1-3FCF2BA9E369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1831FC1D-DFE5-4B92-835C-D9468227DFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1831FC1D-DFE5-4B92-835C-D9468227DFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1831FC1D-DFE5-4B92-835C-D9468227DFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1831FC1D-DFE5-4B92-835C-D9468227DFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{699DC140-7E53-4504-80A9-F1B791694179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699DC140-7E53-4504-80A9-F1B791694179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699DC140-7E53-4504-80A9-F1B791694179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699DC140-7E53-4504-80A9-F1B791694179}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

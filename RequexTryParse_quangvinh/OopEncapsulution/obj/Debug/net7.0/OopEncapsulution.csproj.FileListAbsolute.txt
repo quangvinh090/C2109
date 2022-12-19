@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\obj\Debug\net7.0\OopEncapsulution.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\obj\Debug\net7.0\OopEncapsulution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\obj\Debug\net7.0\OopEncapsulution.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\obj\Debug\net7.0\OopEncapsulution.AssemblyInfo.cs
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\obj\Debug\net7.0\OopEncapsulution.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\bin\Debug\net7.0\OopEncapsulution.exe
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\bin\Debug\net7.0\OopEncapsulution.deps.json
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\bin\Debug\net7.0\OopEncapsulution.runtimeconfig.json
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\bin\Debug\net7.0\OopEncapsulution.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\bin\Debug\net7.0\OopEncapsulution.pdb
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\obj\Debug\net7.0\OopEncapsulution.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\obj\Debug\net7.0\refint\OopEncapsulution.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\obj\Debug\net7.0\OopEncapsulution.pdb
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\obj\Debug\net7.0\OopEncapsulution.genruntimeconfig.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\OopEncapsulution\obj\Debug\net7.0\ref\OopEncapsulution.dll
