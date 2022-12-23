@@ -23,7 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopPolymorphismOverride", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopPolymorphinsInterface", "OopPolymorphinsInterface\OopPolymorphinsInterface.csproj", "{18DB9339-5186-44E0-BE98-AB66BE02CF98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionMethod", "ExtentionMethod\ExtentionMethod.csproj", "{1AC1F5ED-6C95-4690-8A2C-8D97D83B277E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtentionMethod", "ExtentionMethod\ExtentionMethod.csproj", "{1AC1F5ED-6C95-4690-8A2C-8D97D83B277E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListAndLINQ", "ListAndLINQ\ListAndLINQ.csproj", "{9136878D-80FE-4618-BF9F-B1019DF41529}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Baitap", "Baitap\Baitap.csproj", "{33907EEF-8494-41BA-A974-02C07F0059F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "GenericClass\GenericClass.csproj", "{DCF7FA32-CFC1-4E5F-BC8A-7371517E6F7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +81,18 @@ Global
 		{1AC1F5ED-6C95-4690-8A2C-8D97D83B277E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AC1F5ED-6C95-4690-8A2C-8D97D83B277E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AC1F5ED-6C95-4690-8A2C-8D97D83B277E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9136878D-80FE-4618-BF9F-B1019DF41529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9136878D-80FE-4618-BF9F-B1019DF41529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9136878D-80FE-4618-BF9F-B1019DF41529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9136878D-80FE-4618-BF9F-B1019DF41529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33907EEF-8494-41BA-A974-02C07F0059F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33907EEF-8494-41BA-A974-02C07F0059F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33907EEF-8494-41BA-A974-02C07F0059F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33907EEF-8494-41BA-A974-02C07F0059F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF7FA32-CFC1-4E5F-BC8A-7371517E6F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF7FA32-CFC1-4E5F-BC8A-7371517E6F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF7FA32-CFC1-4E5F-BC8A-7371517E6F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF7FA32-CFC1-4E5F-BC8A-7371517E6F7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

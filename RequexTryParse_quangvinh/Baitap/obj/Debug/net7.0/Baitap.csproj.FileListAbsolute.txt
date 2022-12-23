@@ -1,0 +1,5 @@
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Baitap\obj\Debug\net7.0\Baitap.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Baitap\obj\Debug\net7.0\Baitap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Baitap\obj\Debug\net7.0\Baitap.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Baitap\obj\Debug\net7.0\Baitap.AssemblyInfo.cs
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Baitap\obj\Debug\net7.0\Baitap.csproj.CoreCompileInputs.cache

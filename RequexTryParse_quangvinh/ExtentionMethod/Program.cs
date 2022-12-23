@@ -16,3 +16,7 @@ i.isGreaterThan(100);
 
 int abc = 500;
 abc.isGreaterThan(200);
+
+///////////////////////////
+Program pro = new();
+pro.Hi();

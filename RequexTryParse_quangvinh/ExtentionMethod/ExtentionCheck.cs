@@ -18,4 +18,5 @@ internal static class ExtentionCheck
         }
         
     }
+    public static void Hi(this Program obj) => Console.WriteLine("ahihi");
 }

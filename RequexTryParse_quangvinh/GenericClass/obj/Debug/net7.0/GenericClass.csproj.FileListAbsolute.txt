@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\bin\Debug\net7.0\GenericClass.exe
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\bin\Debug\net7.0\GenericClass.deps.json
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\bin\Debug\net7.0\GenericClass.runtimeconfig.json
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\bin\Debug\net7.0\GenericClass.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\bin\Debug\net7.0\GenericClass.pdb
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\obj\Debug\net7.0\GenericClass.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\obj\Debug\net7.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\obj\Debug\net7.0\GenericClass.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\obj\Debug\net7.0\GenericClass.AssemblyInfo.cs
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\obj\Debug\net7.0\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\obj\Debug\net7.0\GenericClass.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\obj\Debug\net7.0\refint\GenericClass.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\obj\Debug\net7.0\GenericClass.pdb
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\obj\Debug\net7.0\GenericClass.genruntimeconfig.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\GenericClass\obj\Debug\net7.0\ref\GenericClass.dll
