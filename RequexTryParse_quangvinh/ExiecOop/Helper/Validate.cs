@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ExiecOop.ExtensionMethod;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlTypes;
 using System.Globalization;
@@ -38,6 +39,11 @@ internal class Validate<T>
                         var date = DateTime.TryParseExact(str, new[] { "d/M/yyyy", "d-m-yyyy" }, new CultureInfo("vi-VN"), DateTimeStyles.None, out var t)?t: throw new Exception
                             ("date wrong (d/M/yyyy, d-m-yyyy)");
                         obj = date.Add(DateTime.Now.TimeOfDay);
+                        break;
+
+                        case TypeCode.Char:
+                            obj = Convert.ToChar(str.ToLower());
+                        if (!obj.In('y', 'n')) throw new Exception("error");
                         break;
                     default:
                         obj = null;
