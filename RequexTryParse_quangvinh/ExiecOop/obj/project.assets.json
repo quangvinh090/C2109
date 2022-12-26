@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "PartailClass/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/PartailClass.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PartailClass.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "PartailClass/1.0.0": {
-      "type": "project",
-      "path": "../PartailClass/PartailClass.csproj",
-      "msbuildProject": "../PartailClass/PartailClass.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "PartailClass >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\PC\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\C2109\\RequexTryParse_quangvinh\\OopPolymorphismOverride\\OopPolymorphismOverride.csproj",
-      "projectName": "OopPolymorphismOverride",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\C2109\\RequexTryParse_quangvinh\\OopPolymorphismOverride\\OopPolymorphismOverride.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\C2109\\RequexTryParse_quangvinh\\ExiecOop\\ExiecOop.csproj",
+      "projectName": "ExiecOop",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\C2109\\RequexTryParse_quangvinh\\ExiecOop\\ExiecOop.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\C2109\\RequexTryParse_quangvinh\\OopPolymorphismOverride\\obj\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\C2109\\RequexTryParse_quangvinh\\ExiecOop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\Users\\PC\\source\\repos\\C2109\\RequexTryParse_quangvinh\\PartailClass\\PartailClass.csproj": {
-              "projectPath": "C:\\Users\\PC\\source\\repos\\C2109\\RequexTryParse_quangvinh\\PartailClass\\PartailClass.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

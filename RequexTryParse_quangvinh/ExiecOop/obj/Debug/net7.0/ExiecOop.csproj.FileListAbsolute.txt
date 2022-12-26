@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\bin\Debug\net7.0\ExiecOop.exe
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\bin\Debug\net7.0\ExiecOop.deps.json
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\bin\Debug\net7.0\ExiecOop.runtimeconfig.json
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\bin\Debug\net7.0\ExiecOop.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\bin\Debug\net7.0\ExiecOop.pdb
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\obj\Debug\net7.0\ExiecOop.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\obj\Debug\net7.0\ExiecOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\obj\Debug\net7.0\ExiecOop.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\obj\Debug\net7.0\ExiecOop.AssemblyInfo.cs
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\obj\Debug\net7.0\ExiecOop.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\obj\Debug\net7.0\ExiecOop.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\obj\Debug\net7.0\refint\ExiecOop.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\obj\Debug\net7.0\ExiecOop.pdb
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\obj\Debug\net7.0\ExiecOop.genruntimeconfig.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\ExiecOop\obj\Debug\net7.0\ref\ExiecOop.dll

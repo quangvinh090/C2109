@@ -5,8 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Delegate
+
 {
     internal class Mathems
     {
+        public void Add(int a, int b) => Console.WriteLine(a+ b);
+        public void Sub(int a, int b) => Console.WriteLine(a - b);
+        public void Multi(int a, int b) => Console.WriteLine(a * b);
+        public static void Div(int a, int b) => Console.WriteLine(a / b);
+        
     }
 }

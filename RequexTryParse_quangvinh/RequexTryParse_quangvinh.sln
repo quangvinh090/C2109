@@ -29,7 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListAndLINQ", "ListAndLINQ\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Baitap", "Baitap\Baitap.csproj", "{33907EEF-8494-41BA-A974-02C07F0059F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "GenericClass\GenericClass.csproj", "{DCF7FA32-CFC1-4E5F-BC8A-7371517E6F7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericClass", "GenericClass\GenericClass.csproj", "{DCF7FA32-CFC1-4E5F-BC8A-7371517E6F7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{965C96C6-CF61-44CD-A4C7-E5F989796411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExiecOop", "ExiecOop\ExiecOop.csproj", "{8F928273-0445-4916-BD85-C9EEE51CD78E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{DCF7FA32-CFC1-4E5F-BC8A-7371517E6F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCF7FA32-CFC1-4E5F-BC8A-7371517E6F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCF7FA32-CFC1-4E5F-BC8A-7371517E6F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965C96C6-CF61-44CD-A4C7-E5F989796411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965C96C6-CF61-44CD-A4C7-E5F989796411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965C96C6-CF61-44CD-A4C7-E5F989796411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965C96C6-CF61-44CD-A4C7-E5F989796411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F928273-0445-4916-BD85-C9EEE51CD78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F928273-0445-4916-BD85-C9EEE51CD78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F928273-0445-4916-BD85-C9EEE51CD78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F928273-0445-4916-BD85-C9EEE51CD78E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
