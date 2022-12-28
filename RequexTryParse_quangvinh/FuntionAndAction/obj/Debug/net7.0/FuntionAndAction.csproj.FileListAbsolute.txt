@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\bin\Debug\net7.0\FuntionAndAction.exe
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\bin\Debug\net7.0\FuntionAndAction.deps.json
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\bin\Debug\net7.0\FuntionAndAction.runtimeconfig.json
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\bin\Debug\net7.0\FuntionAndAction.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\bin\Debug\net7.0\FuntionAndAction.pdb
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\obj\Debug\net7.0\FuntionAndAction.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\obj\Debug\net7.0\FuntionAndAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\obj\Debug\net7.0\FuntionAndAction.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\obj\Debug\net7.0\FuntionAndAction.AssemblyInfo.cs
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\obj\Debug\net7.0\FuntionAndAction.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\obj\Debug\net7.0\FuntionAndAction.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\obj\Debug\net7.0\refint\FuntionAndAction.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\obj\Debug\net7.0\FuntionAndAction.pdb
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\obj\Debug\net7.0\FuntionAndAction.genruntimeconfig.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\FuntionAndAction\obj\Debug\net7.0\ref\FuntionAndAction.dll
