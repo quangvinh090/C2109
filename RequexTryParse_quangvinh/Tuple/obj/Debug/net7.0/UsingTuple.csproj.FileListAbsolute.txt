@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\bin\Debug\net7.0\UsingTuple.exe
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\bin\Debug\net7.0\UsingTuple.deps.json
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\bin\Debug\net7.0\UsingTuple.runtimeconfig.json
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\bin\Debug\net7.0\UsingTuple.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\bin\Debug\net7.0\UsingTuple.pdb
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\obj\Debug\net7.0\UsingTuple.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\obj\Debug\net7.0\UsingTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\obj\Debug\net7.0\UsingTuple.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\obj\Debug\net7.0\UsingTuple.AssemblyInfo.cs
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\obj\Debug\net7.0\UsingTuple.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\obj\Debug\net7.0\UsingTuple.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\obj\Debug\net7.0\refint\UsingTuple.dll
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\obj\Debug\net7.0\UsingTuple.pdb
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\obj\Debug\net7.0\UsingTuple.genruntimeconfig.cache
+C:\Users\PC\source\repos\C2109\RequexTryParse_quangvinh\Tuple\obj\Debug\net7.0\ref\UsingTuple.dll
